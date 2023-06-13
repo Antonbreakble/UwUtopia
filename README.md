@@ -4,7 +4,7 @@
 
 ## Manifesto 
 
-### Genereal
+### General
 
 - Full managed code
 - Developer-friendly
