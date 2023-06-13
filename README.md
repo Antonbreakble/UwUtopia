@@ -42,3 +42,6 @@
     - Zero Reactive UI
     - Rx when needed
 - Dotnet for everything else 
+
+### Roadmap
+MVP Roadmap -> https://github.com/Antonbreakble/UwUtopia/issues/1
